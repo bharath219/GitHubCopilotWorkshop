@@ -626,7 +626,7 @@ You can attach an example image and work with it directly in Copilot Chat.
 
 2. **Add MCP Servers**:
    - Click the tools icon in the agent mode interface
-   - Click "Add MCP server... icon"
+   - Click "Add MCP server... icon" [Shift+Cntrl+P -> MCP:List Servers-> click on "+Add Server" (option in the list) -> choose Command (stdio) option -> provide the command node "path to the ts file containing the code for mcp server" ]
    - Select "Browse MCP Servers..."
    - Add MCP servers: GitHub, Playwright, Azure DevOps & Atlassian
 
